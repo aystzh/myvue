@@ -1,4 +1,5 @@
 # myvue
+<<<<<<< HEAD
 > 第一个Vue项目 一个用于自身vue学习、实战上手的前端项目
 ## Build Setup
 
@@ -26,3 +27,6 @@ npm test
 ```
 
 For a detailed explanation on how things work, check out the [guide](http://vuejs-templates.github.io/webpack/) and [docs for vue-loader](http://vuejs.github.io/vue-loader).
+=======
+一个用于自身vue学习、实战上手的前端项目
+>>>>>>> origin/main
